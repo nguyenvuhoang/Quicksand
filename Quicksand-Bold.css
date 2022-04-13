@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Quicksand';
+    font-weight: 300;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-light.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-light.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-light.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-light.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-light.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'Quicksand';
+    font-weight: 400;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-Regular.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-Regular.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-Regular.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-Regular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-Regular.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'Quicksand';
+    font-weight: 500;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-Medium.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-Medium.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-Medium.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-Medium.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-Medium.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'Quicksand';
+    font-weight: 600;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-SemiBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-SemiBold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-SemiBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-SemiBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-SemiBold.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'Quicksand';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-Bold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-Bold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/quicksand/Quicksand-Bold.ttf') format("truetype");
+    font-display: swap;
+} 
